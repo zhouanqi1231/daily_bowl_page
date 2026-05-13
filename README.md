@@ -1,1 +1,1 @@
-This is the web demo of a Flutter project *Daily Bowl* designed for mobile devices, source code: [[https://zhouanqi1231.github.io/daily_bowl_page/](https://github.com/zhouanqi1231/daily_bowl)](https://github.com/zhouanqi1231/daily_bowl)
+This is the web demo of a Flutter project *Daily Bowl* designed for mobile devices, source code: https://github.com/zhouanqi1231/daily_bowl
